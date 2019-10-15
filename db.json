@@ -1,0 +1,63 @@
+[{
+		"name": "Pizza",
+		"price": 6.50,
+		"img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRixJ6a_gIqYseqm_U_ihsoUJ7bqu02IajtRdUTAwP8zE-5Jc1dGA",
+		"ingredients": [
+			"mozzarella", "pomodoro", "olio", "olive", "basilico"
+		],
+		"backgroundColor": "#54aedb"
+	},
+	{
+		"name": "Pasta carbonara",
+		"price": 9.50,
+		"img": null,
+		"ingredients": [
+			"pasta", "guanciale", "uovo", "pecorino"
+		],
+		"backgroundColor": "#54aedb"
+	},
+	{
+		"name": "Panna cotta",
+		"price": 3.50,
+		"img": null,
+		"ingredients": [
+			"panna", "zucchero"
+		],
+		"backgroundColor": "#008000"
+	},
+	{
+		"name": "Acqua",
+		"price": 1.00,
+		"img": "https://www.acquasantostefano.it/wp-content/uploads/2017/10/acqua3.png",
+		"ingredients": [],
+		"backgroundColor": "#008000"
+	},
+	{
+		"name": "Patate fritte",
+		"price": 3.25,
+		"img": null,
+		"ingredients": ["patate", "olio"],
+		"backgroundColor": "#ee82ee"
+	},
+	{
+		"name": "Salmone",
+		"price": 10.15,
+		"img": "https://www.romagnaatavola.it/wp-content/uploads/romagnaatavola.it/2018/10/Filetti-di-salmone-3.jpg",
+		"ingredients": ["salmone"],
+		"backgroundColor": "#ee82ee"
+	},
+	{
+		"name": "Rubatà",
+		"price": 5.00,
+		"img": null,
+		"ingredients": ["farina", "olio"],
+		"backgroundColor": "#ffff00"
+	},
+	{
+		"name": "Contorno di broccoli molto buono e genuino",
+		"price": 4.00,
+		"img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0YND6TPUiUzbAoORvmKNgyRgLHXPtKpaeTCxWtkj6hllEwIHt",
+		"ingredients": ["farina", "olio"],
+		"backgroundColor": "#ffff00"
+	}
+]
