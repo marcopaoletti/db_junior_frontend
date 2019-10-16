@@ -1,4 +1,4 @@
-[{
+{ "products" : [{
 		"name": "Pizza",
 		"price": 6.50,
 		"img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRixJ6a_gIqYseqm_U_ihsoUJ7bqu02IajtRdUTAwP8zE-5Jc1dGA",
@@ -60,4 +60,4 @@
 		"ingredients": ["farina", "olio"],
 		"backgroundColor": "#ffff00"
 	}
-]
+]}
